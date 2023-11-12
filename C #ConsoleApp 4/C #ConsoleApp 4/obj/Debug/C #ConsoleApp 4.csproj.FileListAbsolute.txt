@@ -1,0 +1,7 @@
+C:\AppOne\.git\Assigment 3(8th nov)\C #ConsoleApp 4\C #ConsoleApp 4\bin\Debug\C #ConsoleApp 4.exe.config
+C:\AppOne\.git\Assigment 3(8th nov)\C #ConsoleApp 4\C #ConsoleApp 4\bin\Debug\C #ConsoleApp 4.exe
+C:\AppOne\.git\Assigment 3(8th nov)\C #ConsoleApp 4\C #ConsoleApp 4\bin\Debug\C #ConsoleApp 4.pdb
+C:\AppOne\.git\Assigment 3(8th nov)\C #ConsoleApp 4\C #ConsoleApp 4\obj\Debug\C #ConsoleApp 4.csproj.AssemblyReference.cache
+C:\AppOne\.git\Assigment 3(8th nov)\C #ConsoleApp 4\C #ConsoleApp 4\obj\Debug\C #ConsoleApp 4.csproj.CoreCompileInputs.cache
+C:\AppOne\.git\Assigment 3(8th nov)\C #ConsoleApp 4\C #ConsoleApp 4\obj\Debug\C #ConsoleApp 4.exe
+C:\AppOne\.git\Assigment 3(8th nov)\C #ConsoleApp 4\C #ConsoleApp 4\obj\Debug\C #ConsoleApp 4.pdb

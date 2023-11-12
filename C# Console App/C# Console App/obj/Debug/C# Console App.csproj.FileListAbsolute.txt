@@ -1,0 +1,7 @@
+C:\Mphasis -B233\.git\Assigment 3(8th nov)\C# Console App\C# Console App\bin\Debug\C# Console App.exe.config
+C:\Mphasis -B233\.git\Assigment 3(8th nov)\C# Console App\C# Console App\bin\Debug\C# Console App.exe
+C:\Mphasis -B233\.git\Assigment 3(8th nov)\C# Console App\C# Console App\bin\Debug\C# Console App.pdb
+C:\Mphasis -B233\.git\Assigment 3(8th nov)\C# Console App\C# Console App\obj\Debug\C# Console App.csproj.AssemblyReference.cache
+C:\Mphasis -B233\.git\Assigment 3(8th nov)\C# Console App\C# Console App\obj\Debug\C# Console App.csproj.CoreCompileInputs.cache
+C:\Mphasis -B233\.git\Assigment 3(8th nov)\C# Console App\C# Console App\obj\Debug\C# Console App.exe
+C:\Mphasis -B233\.git\Assigment 3(8th nov)\C# Console App\C# Console App\obj\Debug\C# Console App.pdb

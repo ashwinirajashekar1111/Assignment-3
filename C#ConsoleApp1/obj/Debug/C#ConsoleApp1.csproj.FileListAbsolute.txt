@@ -1,0 +1,7 @@
+C:\AppOne\AppTwo\Day 3\C#ConsoleApp1\C#ConsoleApp1\bin\Debug\C#ConsoleApp1.exe.config
+C:\AppOne\AppTwo\Day 3\C#ConsoleApp1\C#ConsoleApp1\bin\Debug\C#ConsoleApp1.exe
+C:\AppOne\AppTwo\Day 3\C#ConsoleApp1\C#ConsoleApp1\bin\Debug\C#ConsoleApp1.pdb
+C:\AppOne\AppTwo\Day 3\C#ConsoleApp1\C#ConsoleApp1\obj\Debug\C#ConsoleApp1.csproj.AssemblyReference.cache
+C:\AppOne\AppTwo\Day 3\C#ConsoleApp1\C#ConsoleApp1\obj\Debug\C#ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\AppOne\AppTwo\Day 3\C#ConsoleApp1\C#ConsoleApp1\obj\Debug\C#ConsoleApp1.exe
+C:\AppOne\AppTwo\Day 3\C#ConsoleApp1\C#ConsoleApp1\obj\Debug\C#ConsoleApp1.pdb
